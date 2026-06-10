@@ -3,7 +3,7 @@
 我有把系統真正跑在 production 的實戰經驗。
 從技術評估、可行性驗證到實際上線，一個人搞定。
 
-[**→ 描述你的需求**](https://example.com)
+[**→ 描述你的需求**](https://forms.gle/3q9gsb7z2P1ZWCd8A)
 
 ---
 
@@ -69,4 +69,4 @@
 
 把你卡住的地方告訴我，我們從免費的初步諮詢開始。
 
-[**→ 描述你的需求**](https://example.com){: .cta }
+[**→ 描述你的需求**](https://forms.gle/3q9gsb7z2P1ZWCd8A)
